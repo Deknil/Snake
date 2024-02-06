@@ -12,7 +12,7 @@
     <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/Deknil/Snake">
 </p>
 
-Classic implementation of the game "Snake". The game has the sound of collision with snake segments/apple, states (menu, end, play).
+Classic implementation of the game "Snake". The game has the collision with snake segments/apple, states (menu, end, play).
 
 ## Demo
 
